@@ -1,0 +1,110 @@
+*{
+    margin: 00;
+    padding: 00;
+}
+::-webkit-scrollbar{
+   width: 0px;
+}
+html{
+    scroll-behavior: auto;
+}
+.heading-main{
+    font-family: 'Sacramento', cursive;
+    max-width: 100%;
+    text-align: center;
+}
+.skill{
+    margin-top: 10px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #33a3bb;
+}
+.skill h1{
+    padding: 0;
+}
+h1{
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+h2{
+    padding-top: 2rem;
+}
+.landing-pg{
+    height: 45rem;
+    background-color: #33a3bb;
+}
+.landing-pg h1{
+    color: antiquewhite;
+    font-size: 5rem;
+}
+.landing-pg h2{
+    color: antiquewhite;
+    font-size: 3rem;
+}
+.top-container{
+    width: 100%;
+    margin: 9% auto 20% auto;
+    line-height: 2;
+}
+.sub-container{
+    
+    width: 50%;
+    margin: 30px auto 0 auto;
+}
+.middle-container{
+    width: 100%;
+    margin: 0 auto;
+    margin: 9% auto 20% auto;
+    line-height: 2;
+}
+.footer{
+    text-align: center;
+    background-color: #33a3bb;
+    background:rgba(51, 163, 187, 0.7);
+    height: 9rem;
+}
+.chillies-img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.computer-img{
+    width: 25%;
+    float: right;
+    border-radius: 5.5rem;
+    margin-left: 30px;
+}
+.nav{
+    background-color: white;
+    height: 35px;
+}
+.skill-heading{
+    color: #33a3bb;
+    margin-bottom: 20px;
+}
+.icon-menu{
+    width: 25px;
+    margin-left: 2.2%;
+    margin-top: 5px;
+    
+}
+.nav-icon{
+    float: right;
+    margin-right: 20px;
+}
+.r-icon{
+    width: 25px;
+    margin: 5px 15px 0 15px;
+}
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+.footer h1{
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 5px;
+    color: #ffffff;
+}
+h1 ,h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+}
